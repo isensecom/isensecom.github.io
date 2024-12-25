@@ -52,4 +52,4 @@ The anticipated outcomes include:
 
 ---
 
-For further details, refer to the [Explanatory Note](#) or contact the project team.
+For further details, refer to the [Explanatory Note](#) or contact the project team at **[sultangali.arzykulov@gmail.com](mailto:sultangali.arzykulov@gmail.com)**.
