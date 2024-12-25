@@ -1,24 +1,55 @@
-# ML/AI Engineer
-#### Technical skills: Python, Computer Vision, AI, Drone
+# Intelligent Solutions for Self-Interference Cancellation and Signal Redefinition in Integrated Sensing and Communications (ISAC)
 
-## Education
-- PhD, IT & Telecommunications | Korea Advanced Institute of Science and Technology, Korea (_February 2022_)
-- MSc, IT | The University of Nottingham, UK (_December 2012_)
-- BSc, Software Engineering | Kazakh National Technical University (_July 2008_)
+This project is designed to pioneer advancements in **Integrated Sensing and Communication (ISAC)** networks, leveraging cutting-edge technologies like **Full-Duplex (FD)** and **Reconfigurable Intelligent Surfaces (RIS)** to address challenges in the rapidly evolving wireless communication landscape. By integrating machine learning (ML) techniques, the project aims to develop analytical and algorithmic frameworks that will set new standards for 6G and beyond.
 
-## Work Experience
-**AI Engineer @ AI & BigData Research Center of GAION (_February 2024 - Present_)**
-- Computer Vision (Fire-Smoke detection, Person tracking)
-- Drone Anomaly detection
+---
 
-**ML Engineer @ NeoForces Ltd. (_February 2020 - January 2024_)**
-- Recommendation system in global markets
-- Prognastic and Health management of rotational machines
+## Project Overview
 
-## Projects
-- [Uzdik Bilim (Best Knowledge) YouTube channel](https://youtube.com/@Uzdik) - 13.3K
-- [Social Educational Program - Uzdikter](https://uzdik.kz) - 2K students
+| **Category**             | **Details**                                                                                   |
+|---------------------------|-----------------------------------------------------------------------------------------------|
+| **Project Title**         | Intelligent Solutions for Self-Interference Cancellation and Signal Redefinition in ISAC     |
+| **Scientific Priority**   | Advanced manufacturing, digital, and space technologies                                      |
+| **Specialized Area**      | Telecommunication technologies and the Internet of Things                                    |
+| **Research Type**         | Fundamental/basic research in engineering and technology                                     |
+| **Duration**              | 36 months (1 January 2024 – 31 December 2026)                                               |
+| **Grant Funding**         | 90,000,000 KZT (30,000,000 KZT annually)                                                     |
+| **Keywords**              | Wireless communications, ISAC, ML, information theory, RIS, FD, self-interference cancellation |
 
-## Publications
-- [Fear of Covid-19, social isolation and digital financial services during the Covid-19 pandemic: the unified theory of acceptance and use technology (UTAUT) model, 2021](https://www.econstor.eu/bitstream/10419/238010/1/Berdibayev-Kwon.pdf)
-- [Improving digital financial services inclusion: A panel data analysis, 2020](https://www.econstor.eu/bitstream/10419/224847/1/Berdibayev-Kwon.pdf)
+---
+
+## Abstract
+
+The project aims to redefine the future of wireless communication by:
+- Developing frameworks to optimize sensing and communication interplay in ISAC networks.
+- Utilizing **FD** and **RIS** to improve resource utilization, minimize delays, and enhance system efficiency.
+- Integrating **ML** techniques for:
+  - Optimal waveform design.
+  - Simplified RIS signal complexity.
+  - Managing self-interference in FD systems.
+
+The anticipated outcomes include:
+- Establishing foundational technologies for 6G wireless communication.
+- Enhancing Kazakhstan’s global profile in wireless communications.
+- Encouraging start-ups and collaboration between academia and industry in Central Asia.
+
+---
+
+## Objectives
+
+1. **Technological Innovation**: Deliver practical solutions to ISAC challenges using theoretical insights and algorithmic strategies.
+2. **Educational Impact**: Train students and contribute to the development of high-quality personnel in wireless communication.
+3. **Commercial Potential**: Foster collaboration between academia and local companies, paving the way for project commercialization.
+
+---
+
+## Expected Impact
+
+- Development of foundational technologies for 6G.
+- Contribution to the "Industry 4.0" state program.
+- Elevation of Kazakhstan's profile in wireless communications and research.
+- Opportunities for start-ups and closer academia-industry collaborations.
+
+---
+
+For further details, refer to the [Explanatory Note](#) or contact the project team.
